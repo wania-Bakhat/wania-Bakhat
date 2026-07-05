@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Wania 👋
 
-<!--
-**wania-Bakhat/wania-Bakhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⋆.ೃ࿔*:･ Who I am ⋆.ೃ࿔*:･
 
-Here are some ideas to get you started:
+I'm a Software Engineering student with a growing interest in Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⋆.ೃ࿔*:･ What I'm currently working on ⋆.ೃ࿔*:･
+
+* 🌱 Learning Machine Learning with Python and Scikit-learn
+* 💻 Building AI and software projects to strengthen my skills and apply what I've learned
+
+---
+
+## ⋆.ೃ࿔*:･ Tools & Technologies ⋆.ೃ࿔*:･
+
+### 𐙚⋆.˚ Languages
+
+* Python
+* C++
+* C
+* SQL
+* HTML
+* CSS
+
+### 𐙚⋆.˚ Libraries & Frameworks
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+### 𐙚⋆.˚ Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+---
+
+## ⋆.ೃ࿔*:･ How to reach me ⋆.ೃ࿔*:･
+
+* **GitHub:** https://github.com/wania-Bakhat
+* **LinkedIn:** https://www.linkedin.com/in/wania-bakhat-222139316/
