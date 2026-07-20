@@ -3,7 +3,7 @@
 
 ### Software Engineering Student • Aspiring AI/ML Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&color=F6B6D5&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning;Building+AI+Projects;Future+AI+Engineer;Always+Learning+Something+New+♡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&color=F6B6D5&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning+and+AI♡"/>
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F6B6D5&height=2"/>
