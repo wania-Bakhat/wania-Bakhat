@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Wania 🍄
+# Hi, I'm Wania 
 
 ### Software Engineering Student • Aspiring AI/ML Engineer
 
