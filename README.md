@@ -11,11 +11,9 @@
 
 # ⋆.ೃ࿔:･ About Me ⋆.ೃ࿔:･
 
-I'm a **Software Engineering student** passionate about building intelligent software.
+I'm a **Software Engineering student** passionate about learning new things.
 
-I'm currently focusing on **Machine Learning**, **Python**, and **Artificial Intelligence**, while continuously improving my problem-solving skills through software projects.
-
-My goal is to become an **AI Engineer** and build applications that solve real-world problems.
+I'm currently focusing on **Machine Learning**, **Python**, and **Artificial Intelligence**
 
 ---
 
@@ -46,45 +44,6 @@ My goal is to become an **AI Engineer** and build applications that solve real-w
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,sql"/>
 
 </p>
-
-**Libraries**
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
----
-
-# 𐙚⋆.˚  Currently Building 𐙚⋆.˚ 
-
-🌸 AI & Machine Learning Projects
-
-🌸 Learning more every day
-
----
-
-# 𐙚⋆.˚  GitHub Stats 𐙚⋆.˚ 
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wania-Bakhat&show_icons=true&theme=transparent&title_color=F6B6D5&icon_color=F6B6D5&text_color=FFFFFF&border_color=F6B6D5"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wania-Bakhat&layout=compact&theme=transparent&title_color=F6B6D5&border_color=F6B6D5"/>
-
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F6B6D5&height=2"/>
----
-
-# 𐙚⋆.˚  Contribution Streak 𐙚⋆.˚ 
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=wania-Bakhat&theme=transparent&ring=F6B6D5&fire=F6B6D5&currStreakLabel=F6B6D5&border=F6B6D5"/>
-
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F6B6D5&height=2"/>
----
 
 # 𐙚⋆.˚  Let's Connect 𐙚⋆.˚ 
 
