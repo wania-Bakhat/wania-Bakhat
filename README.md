@@ -48,7 +48,7 @@ I'm currently focusing on **Machine Learning**, **Python**, and **Artificial Int
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,sql"/>
 
 </p>
 
